@@ -1,0 +1,12 @@
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/Sensor.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/GestorCambios.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/RegistroDatosSensores.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/VistaGraficos.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/VistaTablaGUI.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/AbstractObservable.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/IObservable.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/IObservador.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/Observer.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/VistaConsola.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/FuenteDatos.java
+/home/jorge/NetBeansProjects/observer/src/main/java/patron/observer/DatosSensorDTO.java
