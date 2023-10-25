@@ -18,7 +18,8 @@ public class Observer {
         // Inicializando los elementos para visualizar la información
         VistaConsola vistaConsola = new VistaConsola();
         VistaGraficos vistaGraficos = new VistaGraficos();
-        VistaTablaGUI vistaTabla = new VistaTablaGUI();
+        //VistaTablaGUI vistaTabla = new VistaTablaGUI();
+        VistaTabla vistaTabla = new VistaTabla();
         
         while(true)
             fuenteDatos.realizarLecturasSensores();
