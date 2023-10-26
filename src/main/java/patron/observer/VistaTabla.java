@@ -100,8 +100,6 @@ public class VistaTabla extends javax.swing.JFrame implements IObservador{
         Data = new javax.swing.JTable();
         jLabel1 = new javax.swing.JLabel();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 
         jPanel2.setBackground(new java.awt.Color(204, 204, 204));
